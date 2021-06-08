@@ -5,7 +5,7 @@ Jinja2==2.11.2
 lib==3.0.0
 MarkupSafe==1.1.1
 msgpack==1.0.0
-Pillow==7.0.0
+Pillow==8.2.0
 pop==13
 pop-config==5.6
 pyclip==0.1
