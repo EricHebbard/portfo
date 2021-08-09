@@ -11,6 +11,6 @@ pop-config==5.6
 pyclip==0.1
 PyPDF2==1.26.0
 pypiwin32==223
-pywin32==227
+pywin32==301
 PyYAML==5.3.1
 Werkzeug==1.0.1
